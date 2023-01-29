@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "396360667640",
+    "project_id": "clients-97258",
+    "storage_bucket": "clients-97258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396360667640:android:f10d4a2bc1567ed387460d",
+        "android_client_info": {
+          "package_name": "com.bluewater.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdUmZRAXQxptwWlV6gr4kFakNyQKve1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396360667640:android:c1fcaffda34eae9887460d",
+        "android_client_info": {
+          "package_name": "com.codevilla.vids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdUmZRAXQxptwWlV6gr4kFakNyQKve1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396360667640:android:287f73f5ecd7f4a587460d",
+        "android_client_info": {
+          "package_name": "com.sanket.royaltele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdUmZRAXQxptwWlV6gr4kFakNyQKve1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396360667640:android:55a616b7ad68816787460d",
+        "android_client_info": {
+          "package_name": "com.sanket.royalteleadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdUmZRAXQxptwWlV6gr4kFakNyQKve1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396360667640:android:78ac5a54f7430c9c87460d",
+        "android_client_info": {
+          "package_name": "com.video.buzzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdUmZRAXQxptwWlV6gr4kFakNyQKve1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396360667640:android:746ee91a0bb6ff2d87460d",
+        "android_client_info": {
+          "package_name": "com.yashraj.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdUmZRAXQxptwWlV6gr4kFakNyQKve1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396360667640-bd01iell3cg3p28a9b2ive42diuqm5cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
